@@ -6,7 +6,7 @@ playability of non-Von Neumann neighborhoods in terms of piece generation,
 and supports O(hⁿ o)* generation from an arbitrary neighborhood of adjacent
 tiles.
 
-\* where o=1, h = neighborhood cardinality, n = tiles per piece
+\* where h = neighborhood cardinality, n = tiles per piece, o = 1
 
 ## Etymology
 
